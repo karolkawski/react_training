@@ -1,16 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
-import Counter from './Counter/Counter';
+import Todo from './Todo/Todo'
 
 function App() {
   return (
     <div className="app">
       <header className="app__header">
       </header>
-      <body class="app__content">
-        <Counter />
+      <body className="app__content">
+        <Todo/>
       </body>
-      <footer class="app__footer"></footer>
+      <footer className="app__footer"></footer>
     </div>
   );
 }

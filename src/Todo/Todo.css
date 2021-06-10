@@ -1,0 +1,28 @@
+.todo {
+    width: 250px;
+    position: absolute;
+    top: 20%;
+}
+
+.todo__wrapper {
+
+}
+
+.todo__add-task {
+   display: flex;
+}
+.todo__input {
+    flex: 1;
+    height: 22px;;
+}
+.todo__button {
+    
+}
+
+.todo__actions {
+
+}
+
+.todo__list {
+    margin-top:30px;
+}
